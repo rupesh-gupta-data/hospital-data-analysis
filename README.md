@@ -1,4 +1,4 @@
-# Hospital Data Analysi
+# Hospital Data Analysis 
 
 ## 📌 Project Overview
 SQL + Excel analysis on 100 hospital records across 10 Indian cities
